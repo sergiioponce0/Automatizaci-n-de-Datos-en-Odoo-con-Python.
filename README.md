@@ -35,5 +35,5 @@ Esta captura demuestra que la conexión entre Python y el contenedor de Docker e
 
 ### 3. Verificación en pgAdmin con Reloj del Sistema
 [cite_start]Vista de la tabla `import_centros` con los datos cargados mediante la consulta `SELECT` y el reloj del sistema visible, cumpliendo con el requisito de verificación de la tarea
-![Verificación pgAdmin](<img width="1365" height="560" alt="Captura de pantalla 2026-02-06 122606" src="https://github.com/user-attachments/assets/1d052f3f-68c5-4908-b94d-d848c9375f98" />
-)
+![Verificación pgAdmin]<img width="1365" height="560" alt="Captura de pantalla 2026-02-06 122606" src="https://github.com/user-attachments/assets/ca255203-81cf-4c6d-be53-0a9fd5821fc1" />
+
