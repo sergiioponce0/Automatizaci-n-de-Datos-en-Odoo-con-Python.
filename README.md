@@ -23,16 +23,20 @@ Este repositorio contiene la resolución de la tarea de administración de siste
 3. **Verificación**: 
    Se comprobó la carga mediante consultas SQL en pgAdmin y la terminal de VS Code.
 
-## 📸 Capturas de Pantalla (Evidencias)
+## 📸 Evidencias de Funcionamiento
 
 ### 1. Conexión Exitosa (test.py)
 Esta captura demuestra que la conexión entre Python y el contenedor de Docker es correcta antes de la carga.
-![Conexión Exitosa](Captura de pantalla 2026-02-06 123346.png)
+![Conexión Exitosa](<img width="889" height="227" alt="Captura de pantalla 2026-02-06 123346" src="https://github.com/user-attachments/assets/50b39a7b-6121-42ba-87d9-97a53fc10a4c" />
+<img width="889" height="227" alt="Captura de pantalla 2026-02-06 123346" src="https://github.com/user-attachments/assets/50b39a7b-6121-42ba-87d9-97a53fc10a4c" />
+)
 
 ### 2. Ejecución del Script de Importación
-Terminal de VS Code mostrando el mensaje de éxito tras procesar el archivo CSV.
-![Éxito Importación](Captura de pantalla 2026-02-06 123555.png)
+[cite_start]Terminal de VS Code mostrando el mensaje de éxito tras procesar el archivo CSV.
+![Éxito Importación](<img width="1323" height="729" alt="Captura de pantalla 2026-02-06 123555" src="https://github.com/user-attachments/assets/8cfef521-a172-45fb-a176-42346c234508" />
+)
 
 ### 3. Verificación en pgAdmin con Reloj del Sistema
-Vista de la tabla `import_centros` con los datos cargados y el reloj del sistema visible (requisito de verificación).
-![Verificación pgAdmin](Captura de pantalla 2026-02-06 122606.png)
+[cite_start]Vista de la tabla `import_centros` con los datos cargados mediante la consulta `SELECT` y el reloj del sistema visible, cumpliendo con el requisito de verificación de la tarea
+![Verificación pgAdmin](<img width="1365" height="560" alt="Captura de pantalla 2026-02-06 122606" src="https://github.com/user-attachments/assets/e657de7c-b9c2-47ec-a845-6543e172bdf1" />
+)
