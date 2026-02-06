@@ -27,12 +27,12 @@ Este repositorio contiene la resolución de la tarea de administración de siste
 
 ### 1. Conexión Exitosa (test.py)
 Esta captura demuestra que la conexión entre Python y el contenedor de Docker es correcta antes de la carga.
-![Conexión Exitosa](captura1_test.png)
+![Conexión Exitosa](Captura de pantalla 2026-02-06 123346.png)
 
 ### 2. Ejecución del Script de Importación
 Terminal de VS Code mostrando el mensaje de éxito tras procesar el archivo CSV.
-![Éxito Importación](Captura de pantalla 2026-02-06 123555)
+![Éxito Importación](Captura de pantalla 2026-02-06 123555.png)
 
 ### 3. Verificación en pgAdmin con Reloj del Sistema
 Vista de la tabla `import_centros` con los datos cargados y el reloj del sistema visible (requisito de verificación).
-![Verificación pgAdmin](captura3_pgadmin.png)
+![Verificación pgAdmin](Captura de pantalla 2026-02-06 122606.png)
